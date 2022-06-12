@@ -1,0 +1,32 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "value": "hello",
+      "isComplete": false
+    },
+    {
+      "value": "adsadas",
+      "isComplete": false,
+      "id": 2
+    },
+    {
+      "value": "laptop",
+      "isComplete": false,
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "value": "React",
+      "isComplete": false,
+      "id": 5
+    },
+    {
+      "value": "Redux",
+      "isComplete": false,
+      "id": 6
+    }
+  ]
+}
